@@ -9,6 +9,8 @@
   Run real Lighthouse audits, track Core Web Vitals, and build visual test flows — all from a simple, powerful dashboard.
 </p>
 
+[![Docs](https://img.shields.io/badge/docs-available-blue)](https://testdom-io.github.io/testdom-info/)
+
 ---
 
 ## 🌐 Website
