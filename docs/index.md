@@ -1,10 +1,9 @@
-# 🚀 Testdom.io Docs
+# Welcome to Testdom.io Docs
 
-Welcome to the official documentation for Testdom.io.
+🚀 Testdom.io helps you monitor, automate, and improve your website’s performance.
 
-## 📘 Guides
+## Quick Links
 
-- [How to Monitor Web Vitals](web-vitals.md)
-- [Using the Visual Flow Builder](flow-builder.md)
-- [Automating Lighthouse Audits](lighthouse-tests.md)
-- [Setting Email Alerts](alerts.md)
+- [Main Site](https://testdom.io)
+- [Readme](https://github.com/testdom-io/testdom-info#readme)
+- [Web Vitals Docs](https://testdom.io/webvitals/web-vitals)
