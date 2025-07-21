@@ -35,9 +35,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-
-touch docs/.nojekyll
-git add docs/.nojekyll
-git commit -m "Add .nojekyll to skip Jekyll processing"
-git push
